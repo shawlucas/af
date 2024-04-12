@@ -23,7 +23,7 @@
       - [0x69A7E0, c, code/m_collision_obj]
       - [0x69C6B0, c, code/m_common_data]
       - [0x69C770, c, code/m_controller]
-      - [0x69CB30, asm, code/69CB30]
+      - [0x69CB30, c, code/69CB30]
       - [0x69DD60, c, code/m_debug]
       - [0x69DDF0, c, code/m_debug_display]
       - [0x69E2C0, asm, code/69E2C0]
